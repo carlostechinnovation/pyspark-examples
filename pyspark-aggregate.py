@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jun 14 10:20:19 2020
-
-@author: prabha
+¿Como ejecutarlo?
+    - Version monoservidor (pandas_normal): python C:\DATOS\GITHUB_REPOS\pyspark-examples\SCRIPT.py
+    - Version multiservidor (pandas_api_on_spark): cmd /k C:\apps\spark-3.4.0-bin-hadoop3\bin\spark-submit --master "local[*]" C:\DATOS\GITHUB_REPOS\pyspark-examples\SCRIPT.py
 """
 
 import pyspark
